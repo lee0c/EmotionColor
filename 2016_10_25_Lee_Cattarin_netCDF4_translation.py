@@ -1,4 +1,5 @@
 import netCDF4
+import datetime
 
 def readFile(filename):
   temp = dict()
@@ -53,7 +54,7 @@ if __name__ == "__main__":
   
   ## SET ATTRIBUTES
   nc.description = "Data on the percentage of colors in each hex code color group in an image returned from a google search for an emotion"
-  nc.history = "Created Oct 25, 2016"
+  nc.history = "Created: " + str(datetime.datetime.now().time())
   nc.source = "Data generated and encoded into netCDF4 by Lee Cattarin. Data Science course 2016"
   
   nc.sync()
