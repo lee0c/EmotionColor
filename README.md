@@ -10,10 +10,7 @@ There were 216 colors used as the color categories, decided as every possible co
 
 Included resources:
 
-Python code to generate data from images and store it in an SQLite file
-
-CSV data dumps of said SQLite file
-
-Images from which data was gathered
-
-Python code to tranlate CSV files into netCDF
+* Python code to generate data from images and store it in an SQLite file
+* CSV data dumps of said SQLite file
+* Images from which data was gathered
+* Python code to tranlate CSV files into netCDF
