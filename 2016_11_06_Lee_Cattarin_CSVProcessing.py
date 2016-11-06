@@ -9,11 +9,12 @@ import colorsys
 import math
 import util
 
-
+'''
+This function written by Alan Zucconi and found at
+http://www.alanzucconi.com/2015/09/30/colour-sorting/
+It is not my work
+'''
 def step (r,g,b, repetitions=1):
-  r = r/255
-  g = g/255
-  b = b/255
   lum = math.sqrt( .241 * r + .691 * g + .068 * b )
 
   h, s, v = colorsys.rgb_to_hsv(r,g,b)
