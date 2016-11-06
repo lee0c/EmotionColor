@@ -1,25 +1,12 @@
+'''
+Author: Lee Cattarin
+Date: Oct. 25, 2016
+Purpose: This file translate the CSV files into netCDF4
+'''
+
 import netCDF4
 import datetime
-
-def readFile(filename):
-  temp = dict()
-  header = []
-  numLines = 0
-  for line in open('CSV/2016_10_06_' + filename + '.csv'):
-    dat = line.strip().split(',')
-    # header line
-    if dat[0][0] == 'i':
-      for i in range(1, len(dat)):
-        temp[dat[i]] = []
-        header.append(dat[i])
-    # all other lines
-    else:
-      numLines += 1
-      for i in range(1, len(dat)):
-        val = float(dat[i])
-        temp[header[i-1]].append(val)
-    
-  return temp, numLines
+import util.py
 
 if __name__ == "__main__":
   ## BASIC INFO
@@ -29,14 +16,14 @@ if __name__ == "__main__":
   # I am not reading in the first column (image_title) as it has no meaning
   # outside of the specific context of my folder of image files / that same 
   # folder on github
-  anger, angerVal = readFile(emotions[0])
-  anticipation, anticipationVal = readFile(emotions[1])
-  disgust, disgustVal = readFile(emotions[2])
-  fear, fearVal = readFile(emotions[3])
-  joy, joyVal = readFile(emotions[4])
-  sadness, sadnessVal = readFile(emotions[5])
-  surprise, surpriseVal = readFile(emotions[6])
-  trust, trustVal = readFile(emotions[7])  
+  anger, angerVal = util.readCSV(emotions[0])
+  anticipation, anticipationVal = util.readCSV(emotions[1])
+  disgust, disgustVal = util.readCSV(emotions[2])
+  fear, fearVal = util.readCSV(emotions[3])
+  joy, joyVal = util.readCSV(emotions[4])
+  sadness, sadnessVal = util.readCSV(emotions[5])
+  surprise, surpriseVal = util.readCSV(emotions[6])
+  trust, trustVal = util.readCSV(emotions[7])  
   
   # for testing
   '''
