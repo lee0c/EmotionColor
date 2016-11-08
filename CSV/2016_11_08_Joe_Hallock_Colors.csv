@@ -1,0 +1,235 @@
+Location, Age ,Gender,Cheap,Reliability / Dependability,Trust,Security,Speed,Fun,High Quality,High Technology,Loneliness / Desperation,Fear / Terror,Disease / Health Problems,Courage / Bravery,Fav Color,Least Fav Color,,,,,,,,,,,
+1, 2 ,3,4,5,6,7,8,9, 10 ,11,12,13,14,15,16,17, 18 ,19,20,21,22,23,24,25, 26 ,27,28
+,,,,,,,,,,,,,,,,,,,,,,,,,,,
+United States, 26 ,Male,Brown,White,White,Blue,Grey,Yellow,Black,Black,Purple,Red,Orange,White,Blue,Brown,4,5,4,1,3,2,1,5,4,5,2
+Philippines, 22 ,Female,Brown,White,Yellow,Blue,Red,Yellow,Black,Black,Purple,Red,Red,Purple,Red,Brown,3,5,5,1,3,3,1,3,3,1,1
+United States, 25 ,Female,Orange,Blue,Green,Grey,Red,Purple,Black,Blue,White,Black,Yellow,Red,Red,Yellow,3,4,5,1,5,3,4,4,1,2,1
+United States, 35 ,Male,Yellow,Black,Grey,Grey,Red,Orange,Black,Blue,Black,Black,Brown,Blue,Black,White,4,5,5,1,5,4,3,5,1,5,5
+United States, 27 ,Female,Grey,Black,Green,Blue,Red,Orange,Black,Black,Brown,Red,Yellow,Purple,Blue,Purple,3,4,4,1,4,2,2,3,1,1,1
+United States, 26 ,Female,Yellow,Black,Purple,White,Red,Blue,Black,Grey,Grey,Red,Red,Purple,Black,Orange,3,5,5,1,5,5,1,3,1,1,1
+United States, 25 ,Female,Yellow,Blue,Blue,Green,Red,Orange,Green,Blue,Grey,Red,Green,Purple,Purple,Yellow,4,5,4,1,4,3,1,1,1,1,1
+United States, 27 ,Female,White,Blue,Blue,Green,Red,Purple,Grey,Grey,Grey,Black,Yellow,Purple,Blue,Grey,4,5,4,1,3,5,1,1,1,1,3
+United States, 26 ,Female,Red,Blue,Grey,Black,Yellow,Orange,Purple,Brown,Grey,White,Grey,Purple,Orange,Grey,4,4,2,1,2,2,4,4,4,4,3
+United States, 24 ,Female,Brown,Grey,Blue,Blue,Red,Yellow,Grey,Black,Green,Black,Green,Purple,White,Green,4,5,4,2,5,4,3,5,4,3,4
+United States, 18 ,Female,Orange,Blue,White,Red,Yellow,Purple,Blue,Black,Brown,Grey,Grey,Purple,Green,Purple,3,5,3,2,2,4,1,5,2,1,3
+United States, 22 ,Male,Orange,Blue,Brown,White,Red,Yellow,Black,Blue,Grey,Red,Grey,Blue,Green,Yellow,4,5,2,4,4,3,2,4,3,2,1
+United States, 19 ,Male,Brown,Black,Grey,Red,Green,Yellow,Blue,Blue,Grey,Red,Red,Blue,Blue,Brown,2,4,4,1,5,3,3,5,5,5,5
+United States, 26 ,Male,White,Blue,Yellow,Red,Red,Orange,Green,Grey,Brown,Red,Yellow,Purple,Blue,Purple,3,5,4,1,5,5,5,5,5,2,1
+United States, 28 ,Male,Grey,Yellow,Blue,Brown,Red,Orange,Green,Yellow,Black,Black,Grey,Red,Blue,Purple,2,5,4,2,5,5,3,5,5,4,5
+United States, 21 ,Female,Red,Green,White,Green,Yellow,Orange,Blue,Grey,Black,Black,Brown,Purple,Blue,Orange,2,5,5,1,5,5,1,5,1,3,3
+United States, 23 ,Male,Brown,Blue,Blue,Red,Green,Red,Yellow,Yellow,Black,Black,Black,Purple,Brown,Green,3,5,4,3,4,4,4,5,5,4,1
+Canada, 22 ,Male,Orange,Purple,Yellow,Blue,Red,Green,White,White,Grey,Black,Black,Purple,Blue,Orange,3,5,4,3,5,5,4,5,3,5,2
+United States, 23 ,Female,Brown,Black,White,Blue,Red,Green,Black,Blue,Brown,Red,Orange,Red,Blue,Orange,5,5,4,1,4,2,1,1,1,1,1
+United States, 38 ,Male,Yellow,Black,Blue,Black,Red,Orange,Black,Grey,Brown,Red,White,Red,Black,Yellow,2,5,3,1,2,2,2,1,1,1,1
+United States, 20 ,Male,Brown,Black,Black,Red,Red,Yellow,Grey,Grey,Black,Red,Brown,Blue,Blue,Brown,2,4,5,1,3,3,3,5,5,2,1
+United States, 24 ,Male,White,Grey,Blue,Blue,Red,Orange,Black,White,Grey,Red,Green,Black,Blue,Yellow,3,4,5,2,3,4,3,4,3,2,2
+Cuba, 33 ,Female,Orange,Green,White,Blue,Red,Red,Purple,Brown,Grey,Black,Grey,Red,Blue,Orange,3,5,3,5,3,3,4,5,5,1,4
+United States, 22 ,Female,Yellow,Blue,Blue,Grey,Red,Orange,White,Black,Blue,Orange,Brown,Purple,Blue,Purple,3,5,5,2,4,3,2,5,3,5,2
+United States, 22 ,Male,Brown,Blue,White,Blue,Red,Yellow,Blue,Black,Black,Black,Black,Purple,Blue,Brown,3,5,4,3,5,5,5,5,3,2,2
+United States, 25 ,Female,Orange,Purple,Purple,Purple,Red,Red,Black,Black,Black,Black,Black,Purple,Purple,Orange,3,5,3,1,5,5,3,5,1,1,1
+United States, 26 ,Male,Black,Red,Grey,Purple,Brown,White,Orange,Yellow,Green,Blue,White,Red,White,Black,2,5,5,1,5,3,2,2,2,2,2
+Canada, 21 ,Male,Yellow,Blue,Red,Green,White,Orange,Blue,Green,Grey,Black,Black,Red,Black,Brown,4,4,3,1,2,2,4,5,5,3,2
+United States, 26 ,Male,Grey,Black,Blue,Yellow,Black,Yellow,Grey,Yellow,Green,Orange,White,Red,Red,Green,2,5,5,1,5,3,2,2,2,2,2
+France, 40 ,Female,Yellow,Blue,Purple,Green,Red,Orange,Grey,Purple,Black,Red,Red,Green,Purple,Orange,5,3,3,2,1,1,3,1,2,1,1
+United States, 32 ,Female,Yellow,Black,Brown,Blue,Red,Purple,Green,Red,Grey,Red,Green,Red,Purple,Orange,2,3,4,1,3,2,4,3,1,1,1
+United States, 15 ,Female,White,Green,Blue,Black,Red,Red,Black,Blue,Brown,Black,Red,White,Green,Orange,4,5,3,1,4,3,1,5,2,1,1
+United States, 22 ,Male,Red,Blue,Yellow,Red,Black,Orange,White,Grey,Black,White,Red,Purple,Yellow,Purple,4,5,3,1,3,2,3,5,3,2,2
+United States, 24 ,Male,Brown,Blue,Yellow,Green,Red,Blue,Green,Green,Black,Black,Black,White,Green,Orange,4,5,2,1,5,3,5,5,5,1,3
+United States, 20 ,Female,Brown,Black,Blue,Red,Red,Yellow,Black,Black,Black,Grey,Grey,White,Blue,Orange,3,5,5,2,5,5,2,5,3,4,5
+United States, 33 ,Female,Orange,Blue,Blue,White,Red,Purple,Blue,Yellow,Black,Black,Grey,Red,Blue,Orange,3,4,4,1,4,4,2,4,3,2,3
+Korea, 27 ,Male,Green,Blue,Blue,Black,Yellow,Red,Grey,Purple,Grey,Red,Red,Blue,Blue,Orange,3,3,3,1,4,3,4,4,2,3,2
+Brazil, 20 ,Female,Green,Grey,Blue,Red,Yellow,Orange,Blue,Black,Brown,Grey,White,Red,Orange,Brown,3,4,4,1,4,3,3,5,5,4,4
+United States, 28 ,Female,Green,Blue,Purple,Black,Red,Orange,Grey,Grey,White,Red,Green,Red,Purple,Brown,2,4,3,1,4,3,2,3,3,3,3
+United States, 17 ,Male,Yellow,Green,Orange,Green,Orange,Orange,Grey,Blue,Grey,Black,White,Orange,Blue,Purple,3,4,2,2,3,3,4,4,3,3,2
+United States, 20 ,Male,Grey,Red,Red,Orange,Green,Green,Blue,Blue,Black,Yellow,Black,White,Red,Brown,2,5,2,1,3,3,2,5,3,1,2
+United States, 21 ,Male,Brown,Blue,Purple,Purple,Red,Orange,Black,Black,Grey,Red,Grey,Blue,Green,Yellow,2,4,3,2,3,2,3,5,5,3,3
+United States, 22 ,Male,Yellow,Black,Green,Black,Red,Red,White,Grey,Blue,Black,Green,White,Blue,Orange,4,5,3,2,4,3,4,5,4,1,5
+United States, 27 ,Male,Purple,Green,Green,Blue,Red,Orange,Black,Grey,Blue,Red,Brown,Purple,Orange,Purple,3,5,2,1,4,4,2,5,5,2,2
+United States, 19 ,Female,Yellow,Grey,Green,Blue,Red,Red,Purple,Blue,Black,Black,Black,Red,Purple,Brown,5,5,3,1,2,3,4,4,2,4,2
+United States, 20 ,Female,White,Blue,Blue,White,Red,Yellow,Black,Grey,Grey,Red,Brown,Blue,Purple,Yellow,5,5,3,1,4,2,2,3,5,5,2
+United Kingdom, 20 ,Female,Red,Black,White,Black,Blue,Yellow,Blue,Blue,Black,Orange,Brown,Blue,Red,Purple,4,5,5,1,5,4,2,4,4,3,4
+United States, 21 ,Female,Brown,Black,Blue,Purple,Red,Yellow,Black,Black,Black,Red,Brown,Red,Purple,Brown,3,5,4,1,4,2,3,3,3,2,2
+China, 22 ,Female,Red,Black,Black,Red,Red,Yellow,Green,Blue,Grey,Orange,Yellow,Blue,Purple,Grey,4,5,5,2,5,5,3,3,3,4,4
+United States, 23 ,Female,Brown,Black,White,Blue,Red,Orange,Purple,Black,Grey,Red,Brown,Yellow,Purple,Brown,3,5,4,1,2,3,2,3,4,3,3
+United States, 22 ,Female,Orange,Blue,Red,Blue,Red,Purple,White,Black,Grey,Red,Orange,Red,Green,Grey,3,5,4,1,4,2,3,3,1,1,3
+United States, 24 ,Male,Yellow,Blue,Purple,Green,Red,Red,Blue,Grey,Black,Black,Grey,Red,Blue,Grey,2,5,3,1,5,3,3,2,1,1,1
+United States, 29 ,Male,Orange,Blue,Purple,Blue,Purple,Orange,Black,Black,White,Red,Grey,Red,Blue,White,4,5,4,2,5,5,2,4,2,3,1
+United States, 26 ,Male,Red,Grey,Blue,Black,Yellow,Orange,Black,Blue,Brown,Red,Brown,Blue,Grey,Purple,4,5,3,2,5,1,3,5,3,2,1
+United States, 21 ,Female,Red,Black,Blue,Black,Red,Purple,Black,Black,Grey,Black,Yellow,Purple,Red,Green,3,5,5,1,3,3,2,4,3,2,2
+United States, 21 ,Female,Green,Purple,Purple,Purple,Red,Red,Black,Black,Black,White,Yellow,Purple,Purple,Brown,2,4,4,1,4,3,3,4,4,1,1
+United States, 20 ,Male,Yellow,Grey,Blue,Blue,Red,Orange,Grey,Grey,Black,Black,Black,Grey,Green,Brown,3,4,4,1,4,4,4,3,3,2,2
+United States, 20 ,Male,Black,Black,Blue,Orange,White,Yellow,Grey,White,Black,Red,Yellow,Brown,Blue,Yellow,3,5,5,1,4,1,5,5,5,5,3
+Mexico, 20 ,Female,Orange,Blue,White,Yellow,Red,Yellow,Black,Black,Grey,Red,Brown,Purple,Red,Brown,4,5,2,1,3,3,3,2,4,3,3
+United States, 24 ,Male,White,Black,White,Blue,Yellow,Red,Red,Green,Grey,Black,White,Purple,Blue,Grey,4,4,5,3,5,4,4,5,4,3,5
+United States, 20 ,Female,Orange,Blue,Red,Green,Red,Purple,Grey,White,Black,Black,Brown,Blue,Red,Brown,5,4,3,1,3,4,1,4,2,2,2
+United States, 22 ,Male,Orange,Grey,Blue,Red,Red,Orange,Blue,Blue,Brown,Red,Brown,Blue,Black,Orange,2,2,2,1,4,2,2,5,3,5,4
+United States, 21 ,Female,Red,Black,Red,Blue,White,Purple,Black,Black,Grey,Red,Black,Purple,Blue,Yellow,5,5,3,1,4,5,2,4,2,2,4
+United States, 20 ,Female,Red,Blue,Blue,Purple,Orange,Orange,Black,Blue,White,Red,Yellow,Red,Blue,Grey,3,4,5,2,3,2,2,3,2,3,3
+United States, 23 ,Female,Orange,White,Purple,Brown,Red,Green,Blue,Blue,Grey,Black,Red,Blue,Green,Orange,3,5,5,1,4,3,1,1,1,1,1
+United States, 23 ,Female,Red,Blue,Blue,Black,Red,Purple,Black,Black,Grey,White,Red,Purple,Purple,Brown,4,4,2,1,4,4,4,4,4,2,2
+United States, 22 ,Female,Grey,Black,White,Blue,Red,Red,Purple,Green,Brown,Yellow,Orange,Purple,Blue,Grey,3,4,4,1,3,2,2,3,2,1,2
+United States, 24 ,Female,Orange,Blue,Green,Red,Green,Green,Blue,Blue,Purple,Purple,Brown,Black,Blue,Yellow,4,5,4,1,5,5,3,4,4,1,1
+Korea, 20 ,Female,White,Black,Blue,Black,Red,Yellow,Black,Grey,Brown,Red,Red,Blue,Blue,Brown,4,4,3,1,3,3,2,5,5,4,5
+United States, 22 ,Female,Orange,Red,Purple,Green,Red,Purple,Green,Grey,Orange,Red,Brown,Blue,Green,Yellow,3,4,5,1,3,3,3,4,4,3,2
+United States, 20 ,Female,Orange,Blue,White,Red,Red,Yellow,Black,Black,Black,Black,Red,Brown,Blue,Brown,3,5,3,1,3,3,2,2,4,2,1
+United States, 18 ,Male,Yellow,Blue,Green,Red,Orange,Green,Blue,Blue,Brown,Red,Purple,Purple,Green,Yellow,2,4,3,1,5,4,3,3,2,1,1
+Philippines, 28 ,Male,Yellow,Blue,Blue,Blue,Red,Purple,Black,Grey,White,Red,Yellow,Black,Green,Yellow,3,4,3,2,3,3,2,2,2,2,2
+United States, 19 ,Female,Yellow,Blue,Blue,Blue,Red,Yellow,Black,Black,Grey,Black,Orange,Blue,Purple,Orange,4,5,2,1,3,3,3,5,5,2,2
+United States, 19 ,Male,Orange,White,White,Red,White,Purple,White,Blue,Black,Black,Black,Blue,White,Orange,3,5,3,2,2,1,4,3,4,2,2
+United States, 21 ,Female,Brown,Blue,Blue,White,Yellow,Red,Black,White,Black,Black,Grey,Purple,Red,Grey,3,2,4,1,4,2,3,5,3,4,1
+United States, 20 ,Male,Yellow,Blue,White,Brown,Red,Blue,White,Grey,Grey,Black,Green,Blue,Blue,Purple,2,5,3,1,4,1,4,5,4,5,5
+United States, 18 ,Male,Black,Red,Red,Blue,Grey,Orange,White,Grey,Black,Red,Brown,Purple,Grey,Purple,2,5,3,4,2,2,3,5,5,2,3
+Mexico, 49 ,Female,Orange,Black,Blue,Blue,Red,Red,Black,Black,Grey,Red,Grey,Red,Blue,Orange,3,5,5,1,5,5,2,2,4,4,4
+Romania, 23 ,Female,Brown,Black,White,White,Red,Blue,Black,Blue,Grey,Red,Yellow,Blue,Brown,Orange,4,5,4,1,4,2,1,1,1,1,1
+United States, 20 ,Female,Yellow,Blue,Purple,Green,Red,Yellow,Black,Black,Brown,Black,Red,Purple,Black,Orange,3,5,4,2,3,2,2,3,3,3,2
+United States, 24 ,Male,Yellow,Blue,Purple,Blue,Red,Orange,Black,Blue,Grey,Green,Grey,Blue,Blue,Purple,3,5,4,2,3,3,2,4,4,2,3
+United States, 32 ,Male,Orange,Black,White,Blue,Red,Yellow,Black,White,Grey,Red,Orange,Red,Black,Orange,3,5,5,1,3,3,1,2,3,1,4
+Vietnam, 60 ,Male,Brown,White,White,Black,Red,Yellow,Yellow,Blue,Grey,Red,Black,Red,Grey,Orange,1,4,4,1,5,5,1,1,1,4,5
+United States, 28 ,Male,Grey,Blue,White,Blue,Red,Yellow,Black,Grey,Blue,Yellow,Black,Red,Blue,Brown,4,4,3,1,2,1,4,2,2,2,2
+United States, 32 ,Female,Yellow,Brown,White,Grey,Red,Blue,Black,Green,Grey,Red,Yellow,Blue,Green,Orange,2,5,3,1,2,3,2,2,1,4,3
+Iceland, 20 ,Female,Grey,Black,Red,Blue,Red,Purple,Black,White,Brown,Red,Grey,Blue,Purple,Brown,5,5,3,1,3,2,3,5,4,5,2
+United States, 21 ,Female,Orange,Blue,Purple,Blue,Black,Green,Black,Blue,Yellow,White,White,Red,Purple,Yellow,4,5,5,3,3,3,3,5,4,3,1
+United States, 22 ,Female,Red,Blue,White,Black,Red,Yellow,Black,Blue,Blue,Black,Black,Purple,Blue,Brown,2,5,5,1,3,2,1,5,1,1,1
+United States, 21 ,Female,Red,Blue,Blue,Brown,Yellow,Orange,Grey,Grey,Black,Red,Green,Blue,Blue,Brown,3,5,5,1,1,5,5,5,3,5,1
+United States, 34 ,Male,Brown,Blue,Black,Red,Red,Yellow,Blue,Red,Grey,Black,Brown,Blue,Blue,Purple,3,5,5,1,4,5,1,2,1,1,2
+United States, 21 ,Female,Yellow,Blue,Blue,Blue,Red,Orange,Black,Grey,Grey,Black,Red,Purple,Purple,Yellow,4,3,3,1,3,3,3,4,4,2,2
+United States, 22 ,Female,Orange,Blue,Blue,Blue,Red,Red,Brown,Black,Grey,Black,Green,White,Blue,Orange,4,4,2,1,4,3,2,4,3,3,4
+United States, 19 ,Female,White,Grey,Blue,Brown,Red,Yellow,Purple,White,Black,Red,Red,Purple,Green,Orange,2,5,3,1,5,3,3,4,1,4,1
+United States, 26 ,Female,Yellow,Black,White,Blue,Red,Orange,Grey,Grey,Blue,Red,Green,Blue,Blue,Grey,3,3,3,1,2,4,4,5,2,5,5
+United States, 40 ,Female,Green,Blue,Blue,Blue,Red,Red,White,Blue,Grey,Black,Yellow,Blue,Black,Purple,5,5,5,1,5,5,4,4,4,3,3
+United States, 21 ,Female,Yellow,Blue,Blue,Blue,Red,Purple,White,White,Black,Red,Red,Orange,Blue,Orange,3,5,4,1,4,2,1,2,1,1,2
+United States, 22 ,Female,Red,Purple,Blue,Green,Black,Orange,Blue,Black,Blue,Red,Green,Purple,Green,Yellow,3,4,5,1,5,3,3,4,3,5,3
+United States, 22 ,Female,Yellow,Grey,Brown,Brown,Red,Orange,Grey,Grey,Black,Black,Green,Purple,Blue,Yellow,4,3,4,1,4,1,5,2,4,4,1
+United States, 19 ,Male,Yellow,Blue,Black,Black,Green,Orange,White,Blue,Grey,Red,Red,Blue,Blue,Brown,3,4,3,1,3,4,4,5,4,2,2
+Hong Kong, 26 ,Male,Yellow,White,Red,White,Red,Orange,Black,Grey,Blue,Grey,Green,Red,Orange,Purple,3,5,4,1,5,5,3,5,4,3,3
+Ireland, 38 ,Male,Orange,Grey,Green,Blue,Red,Red,Black,White,White,Brown,Yellow,Blue,Black,Orange,3,4,3,2,3,2,3,4,4,4,4
+Hong Kong, 24 ,Female,Orange,Brown,Red,Blue,Red,Red,Black,Black,Purple,Black,Grey,Yellow,Red,Orange,4,4,3,2,3,2,2,4,4,5,5
+Hong Kong, 22 ,Female,Yellow,Blue,Brown,Grey,Orange,Purple,Black,Grey,White,Grey,Green,Red,Grey,Orange,4,5,4,1,3,3,2,3,4,5,4
+United States, 28 ,Male,White,Brown,Blue,Brown,Red,Orange,Black,Black,Grey,Black,Green,Red,Blue,Purple,4,4,4,2,4,3,3,3,3,3,4
+United States, 26 ,Male,Purple,Black,Blue,Black,Red,White,Blue,Blue,Grey,Red,Brown,Black,Blue,Purple,2,5,5,1,4,3,2,2,2,1,1
+Netherlands, 20 ,Male,Green,Blue,Red,Black,Red,Orange,White,White,Brown,Black,Yellow,Purple,Blue,Brown,2,5,3,1,4,4,3,5,5,3,3
+Hong Kong, 21 ,Female,Yellow,Brown,Blue,Red,White,Orange,Black,Black,Grey,Red,Black,Red,Orange,White,3,5,3,1,4,2,3,5,5,5,2
+Hong Kong, 25 ,Female,Yellow,Yellow,Black,Black,Red,White,Green,Brown,Grey,Grey,Purple,Green,Brown,Grey,3,4,5,5,4,5,3,1,3,3,5
+Hong Kong, 24 ,Male,Yellow,Yellow,Green,White,Red,Red,Red,Black,Green,Black,Black,Red,Blue,Brown,2,5,3,3,5,5,5,3,2,3,4
+United States, 21 ,Female,Orange,Blue,Purple,Purple,Red,Yellow,White,Black,Grey,Red,Red,Red,Green,Brown,3,5,5,2,2,1,1,3,1,3,3
+United States, 43 ,Female,Orange,Blue,Brown,Brown,Red,Purple,Grey,Grey,Black,Black,Yellow,Brown,Purple,Yellow,2,4,5,1,3,1,1,1,1,5,5
+United States, 31 ,Female,White,Black,Green,Grey,Black,Red,Black,Grey,Grey,Yellow,Yellow,Blue,Green,Orange,5,5,4,1,4,3,3,2,3,3,1
+United States, 31 ,Male,Orange,Black,Blue,Blue,Red,Yellow,Black,Black,Grey,Red,Grey,White,Blue,Orange,3,4,4,2,4,4,3,2,2,3,2
+United States, 34 ,Male,White,Black,Blue,Orange,Yellow,Purple,Red,Grey,Brown,Grey,Green,Red,Blue,Brown,2,3,4,1,3,3,2,2,1,2,2
+United States, 22 ,Male,Yellow,Brown,Blue,Green,Red,Orange,Black,Grey,Brown,Black,Yellow,Blue,Green,Brown,4,4,3,2,3,4,4,3,1,1,1
+United States, 55 ,Male,Grey,Black,Blue,Brown,Yellow,Red,Blue,White,White,Black,Red,Green,Blue,Grey,3,5,4,2,5,3,1,1,1,5,3
+Netherlands, 22 ,Female,Yellow,Blue,Blue,Green,Red,Orange,Blue,Grey,Grey,Black,Brown,Yellow,Blue,Purple,4,5,5,4,5,4,4,2,1,5,5
+Colombia, 23 ,Female,Grey,Blue,White,White,Red,Purple,Black,Black,Brown,Black,Yellow,Red,Blue,Green,2,1,1,3,1,1,5,3,2,2,1
+Gambia, 25 ,Male,Green,Blue,Blue,Grey,Orange,Red,Brown,Yellow,Grey,Red,White,Blue,Blue,Yellow,2,5,4,1,3,2,3,3,3,2,3
+United States, 70 ,Female,Orange,Blue,Black,Black,Red,Orange,Black,Purple,Grey,Red,Brown,Purple,Blue,Orange,1,5,3,1,4,4,4,4,4,1,4
+United States, 20 ,Male,Yellow,White,White,Blue,Red,Orange,Black,Grey,Purple,Red,Green,Red,Black,Orange,3,4,4,2,2,2,4,4,4,2,3
+United States, 34 ,Male,Yellow,White,Green,Brown,Red,Red,White,Black,Grey,Red,Green,White,Blue,Orange,1,4,5,3,3,4,1,1,1,1,1
+United States, 47 ,Female,Purple,Brown,Blue,Green,Red,Yellow,Black,Grey,Grey,Red,Grey,Yellow,Green,Purple,4,5,5,2,2,3,1,5,1,1,1
+Switzerland, 37 ,Female,Orange,Black,White,Black,Red,Purple,Blue,Grey,Brown,Black,Yellow,Blue,Blue,Orange,4,5,5,4,4,4,1,1,1,4,4
+United States, 26 ,Female,Orange,Brown,Grey,Green,Red,Orange,Blue,Grey,Black,Red,Yellow,Purple,Orange,Brown,3,5,5,1,4,2,2,3,1,1,1
+United States, 37 ,Female,Green,Brown,Grey,Blue,Red,Yellow,Black,Purple,Blue,Red,Black,Red,Purple,Grey,2,3,3,1,5,3,1,3,1,1,3
+United States, 31 ,Female,Red,Blue,Blue,Purple,Orange,Yellow,Black,Red,Grey,Red,Brown,Red,Green,Brown,3,5,3,1,4,2,1,1,1,1,1
+United States, 32 ,Female,Black,Red,White,Blue,Red,Blue,Green,Orange,Grey,Black,Grey,Blue,Purple,Grey,1,5,3,1,5,5,1,1,1,3,4
+United States, 34 ,Female,Orange,Green,Brown,Green,Red,Yellow,Blue,Red,Grey,Black,Purple,White,Green,Orange,3,5,5,5,5,3,1,3,3,5,5
+United States, 54 ,Female,Orange,Blue,Blue,Blue,Red,Red,Blue,White,Black,Black,Red,Purple,Blue,Orange,1,4,5,2,4,3,1,1,1,1,3
+United States, 21 ,Female,Yellow,Black,Blue,Red,Red,Orange,Black,Green,Blue,Red,Red,White,Brown,Orange,2,5,2,2,4,3,2,1,1,1,1
+United States, 49 ,Female,Orange,Blue,Blue,Black,Red,Yellow,Blue,Blue,Grey,Red,Black,Red,Yellow,Orange,2,3,5,1,3,4,1,2,1,2,3
+Chile, 29 ,Female,Blue,Grey,Green,Green,Red,Purple,Green,Blue,Black,Red,Brown,Red,Purple,Brown,4,5,5,3,4,4,1,1,1,2,2
+United States, 41 ,Female,Orange,Blue,White,Brown,Red,Yellow,Black,Blue,Grey,Red,Green,Purple,Blue,Grey,2,5,5,1,5,5,5,5,1,1,1
+United States, 40 ,Male,Orange,Black,Blue,Black,Red,Yellow,Blue,Blue,Grey,Red,Brown,Red,Blue,Brown,1,2,4,1,5,5,3,1,1,2,4
+United States, 50 ,Female,Grey,Black,Blue,Blue,Red,Green,Blue,Purple,Grey,Red,Grey,Red,Blue,Yellow,5,5,4,1,4,2,1,1,1,1,1
+United States, 50 ,Female,Orange,Black,Blue,Blue,Red,Purple,Black,White,Grey,Black,Yellow,Purple,Purple,Orange,4,5,5,2,4,5,1,1,1,1,1
+United States, 27 ,Female,White,Black,Brown,Yellow,Green,Purple,Blue,Orange,Grey,Red,Red,Blue,Blue,Grey,2,5,4,1,4,4,2,3,1,3,2
+United States, 42 ,Female,Orange,White,Blue,Red,Red,Yellow,Black,Black,Grey,Black,Grey,Purple,Yellow,Orange,1,5,4,1,3,4,1,1,1,1,1
+United States, 27 ,Female,Yellow,Brown,Green,Green,Red,Orange,Blue,Blue,Grey,Green,Grey,Purple,Green,White,4,5,5,2,5,4,1,3,3,3,3
+United States, 35 ,Female,Orange,Blue,Green,Blue,Red,Yellow,Black,Grey,Brown,Orange,Brown,Red,Purple,Brown,4,4,3,2,2,2,2,2,2,1,2
+Germany, 25 ,Male,Green,Black,White,Orange,Red,Yellow,Grey,Blue,Brown,Red,Green,Purple,Orange,Brown,4,5,4,2,3,2,2,2,1,4,3
+United States, 33 ,Male,Red,Blue,Grey,Grey,Yellow,Yellow,Blue,Green,Black,Black,Green,Blue,Blue,White,4,5,2,1,2,1,1,1,1,1,1
+United States, 33 ,Female,Yellow,Brown,White,Blue,Red,Orange,Purple,Black,Grey,Black,Grey,Purple,Blue,Orange,3,5,5,1,5,5,2,3,2,2,2
+United States, 45 ,Female,Orange,Blue,Black,Blue,Red,Purple,Black,Grey,Black,Brown,Grey,Red,Blue,Grey,4,5,4,1,5,5,1,3,1,1,4
+United States, 55 ,Female,Brown,Purple,White,Blue,Red,Yellow,Black,Red,Grey,Orange,Grey,Purple,Red,Grey,1,5,3,1,5,4,1,1,1,1,1
+United States, 30 ,Female,Green,Blue,Red,Black,White,Yellow,White,Blue,Grey,Red,Brown,White,Blue,Orange,1,3,3,1,3,3,4,5,2,4,3
+United States, 28 ,Female,Orange,Blue,Green,Black,Red,Yellow,Green,Blue,Brown,Black,Red,Purple,Green,Brown,2,5,5,3,5,4,5,5,4,3,3
+United States, 50 ,Male,Orange,White,White,Grey,Black,White,Black,Black,Grey,Black,Brown,Red,Blue,Orange,3,5,5,4,3,2,1,3,1,2,3
+United States, 33 ,Female,Orange,Blue,Green,Blue,Red,Yellow,Black,Black,Grey,Red,Brown,Red,Green,Grey,3,5,4,1,4,4,3,1,1,3,1
+United States, 21 ,Male,Brown,Purple,Red,Yellow,Red,Red,Black,Grey,Orange,Green,Green,Red,Red,Red,5,1,5,1,1,1,1,5,1,1,1
+United States, 29 ,Male,Yellow,Blue,Blue,Red,Yellow,Yellow,Black,Grey,Black,Black,Orange,Purple,Green,Orange,2,5,5,1,5,1,1,3,3,5,5
+United States, 43 ,Female,Orange,Black,Blue,Brown,Red,Purple,Black,Blue,Grey,Black,Green,Grey,Black,Green,3,5,5,3,5,5,4,4,2,1,5
+United States, 46 ,Female,Orange,Blue,White,Grey,Red,Purple,Black,Blue,Yellow,Red,Brown,White,Purple,Orange,3,5,4,2,5,2,1,2,1,2,2
+United States, 29 ,Female,Orange,Blue,Yellow,White,Red,Yellow,Grey,Black,Grey,Black,Black,Red,Blue,Orange,3,4,4,1,4,5,5,4,1,2,2
+United States, 53 ,Male,Yellow,Black,Grey,Green,Red,Orange,Brown,Blue,Purple,Red,Orange,Brown,Blue,Purple,2,3,1,1,5,5,4,1,1,1,1
+Germany, 25 ,Male,Red,Green,Black,Black,Red,Orange,Black,Green,Black,Red,Red,Purple,Green,Red,2,4,2,2,2,4,4,2,2,4,3
+United States, 22 ,Female,Orange,Black,White,Yellow,Red,Blue,Green,Purple,Grey,Black,Brown,Purple,Blue,Purple,2,5,5,2,4,4,1,2,1,1,3
+Hong Kong, 26 ,Male,Yellow,White,White,White,Red,Green,Brown,Blue,Grey,Grey,Black,Red,Brown,Yellow,5,2,2,4,1,3,2,2,4,1,3
+Germany, 25 ,Male,White,Blue,Blue,Brown,Red,Orange,Black,Grey,Grey,Grey,Brown,Blue,Blue,Purple,2,4,5,1,2,1,1,2,1,2,1
+Germany, 25 ,Male,Orange,Blue,Grey,Blue,Red,Yellow,Blue,Green,Purple,Brown,Grey,Grey,Red,Orange,5,5,2,3,3,1,2,1,3,1,1
+United States, 45 ,Female,Purple,Black,Blue,White,Red,Red,Black,Black,Grey,Black,Orange,Blue,Blue,Orange,5,5,5,1,1,4,1,1,1,1,1
+United States, 39 ,Male,Brown,Blue,Yellow,White,Red,Purple,Grey,Black,Black,Black,Green,Red,Blue,Brown,3,5,4,3,4,1,2,2,2,1,1
+United States, 60 ,Female,Grey,Red,Blue,Blue,Yellow,Yellow,Red,Black,Black,Black,Black,Red,Blue,Orange,2,4,2,2,5,5,3,1,3,5,5
+United States, 45 ,Female,Grey,Blue,Purple,Red,Yellow,Purple,Blue,Black,Grey,Black,Grey,Red,Blue,Grey,2,5,5,2,3,3,1,1,1,1,2
+United States, 48 ,Female,Grey,Black,Blue,Black,Red,Orange,Black,Black,Brown,Yellow,Yellow,Blue,Red,Grey,4,5,5,3,3,4,5,4,2,2,2
+United States, 46 ,Female,Orange,Blue,Green,White,Red,Red,Black,Blue,Brown,Black,Yellow,Blue,Red,Grey,4,4,4,1,4,4,1,2,1,1,3
+United States, 36 ,Male,Brown,Blue,Green,White,Red,Purple,Blue,Black,Grey,Red,Brown,Red,Blue,Brown,3,5,5,1,4,3,1,1,1,1,1
+Mexico, 40 ,Female,Purple,White,White,Orange,Red,Blue,Black,Red,Black,Black,Grey,Red,Purple,Green,4,2,5,5,5,5,3,4,2,3,3
+United States, 54 ,Female,Brown,White,Blue,Blue,Red,Green,White,Purple,Black,Red,Grey,White,Blue,Yellow,1,5,3,1,2,3,1,1,1,1,1
+United States, 45 ,Female,Green,Black,White,Yellow,Red,Blue,Black,Purple,Grey,Black,Grey,Purple,Yellow,Brown,1,5,5,4,3,3,1,1,1,3,3
+Philippines, 30 ,Female,Orange,Blue,White,Green,Red,Purple,Blue,Blue,Grey,Black,Grey,Red,Blue,Orange,3,3,5,1,4,4,1,4,1,5,5
+Mexico, 35 ,Female,White,Grey,Yellow,Black,Red,Yellow,Red,Grey,Blue,Black,Purple,Purple,Purple,Orange,1,5,4,3,4,4,2,1,1,3,3
+United States, 45 ,Female,Orange,Blue,Green,Blue,Red,Purple,Black,Black,Black,Red,Orange,Green,Green,Orange,1,5,5,1,3,3,1,1,1,3,3
+United States, 20 ,Female,White,Blue,Yellow,Brown,Red,Red,Black,Grey,Grey,Black,Green,Purple,Red,Green,3,5,5,2,4,4,1,3,2,2,2
+United States, 22 ,Female,Brown,Blue,Blue,Black,Red,Blue,Black,Blue,Grey,Orange,Yellow,Blue,Black,Orange,2,5,4,2,3,3,3,3,3,2,2
+United States, 55 ,Female,Purple,Black,White,White,Red,Yellow,Black,Grey,Brown,Black,Yellow,White,Black,Yellow,1,5,4,1,5,3,4,1,1,1,1
+United States, 58 ,Female,Red,Blue,Blue,White,Red,Red,Black,Black,Grey,Red,Grey,Blue,Yellow,White,3,5,5,3,1,3,5,1,1,1,2
+United States, 36 ,Female,Blue,Orange,Yellow,Purple,Red,Purple,Purple,Black,Black,Black,Brown,Red,Blue,Grey,1,1,1,5,5,3,5,5,5,5,5
+United States, 26 ,Female,Orange,Black,Yellow,Blue,Red,Yellow,Black,Blue,Purple,Green,Grey,Blue,Blue,Orange,4,5,5,2,4,4,3,4,2,4,4
+United States, 78 ,Male,Grey,Blue,Blue,Green,Red,Blue,Blue,Blue,Brown,White,Brown,Blue,Blue,Blue,1,3,1,1,1,1,3,1,1,1,2
+Germany, 46 ,Female,Green,Black,Brown,Yellow,Red,Purple,Grey,Blue,Grey,Orange,Green,Purple,Blue,Green,3,5,5,1,5,5,1,1,2,3,2
+United States, 81 ,Female,Brown,Blue,Blue,White,Red,Red,Black,White,Black,Black,Yellow,Red,Blue,Brown,1,5,4,1,4,4,1,1,1,2,1
+United Kingdom, 71 ,Male,Purple,Blue,Blue,White,Red,Green,Blue,Grey,Grey,Red,Orange,Red,Blue,Purple,1,3,1,1,2,2,2,1,1,1,1
+United States, 45 ,Female,White,Black,Blue,Grey,Red,Yellow,Black,Grey,Grey,Red,Brown,Orange,Yellow,Orange,3,5,4,1,1,1,1,2,1,1,2
+United States, 57 ,Female,Grey,Blue,White,Black,Red,Green,Purple,Yellow,Black,Black,Grey,White,Purple,Brown,2,5,5,1,2,2,1,2,1,1,1
+United States, 67 ,Female,Grey,Blue,White,Blue,Red,Yellow,Brown,Black,Grey,Red,Grey,Purple,Orange,Grey,1,5,4,1,3,4,1,1,1,1,4
+United States, 46 ,Female,Orange,Green,Blue,Brown,Yellow,Purple,White,Black,Grey,Black,Red,Blue,Purple,Orange,3,4,5,1,2,1,1,2,1,1,1
+United States, 28 ,Female,Yellow,Blue,Blue,Blue,Red,Orange,Blue,Blue,Grey,Red,Green,Purple,Purple,Green,2,5,5,2,5,4,3,5,2,3,5
+United States, 35 ,Female,Yellow,Blue,Purple,Green,Red,Orange,Black,Grey,Brown,Red,Grey,Red,Orange,Yellow,3,5,5,3,2,2,3,4,4,3,5
+United States, 25 ,Male,Red,Black,Blue,Black,Green,Yellow,White,Blue,Black,Red,Orange,Yellow,Blue,Brown,5,5,3,2,3,3,2,3,2,3,2
+United States, 29 ,Female,Green,Brown,Blue,Blue,Red,Orange,Black,Black,Grey,Red,Brown,Blue,Blue,Purple,4,5,5,4,3,3,1,4,2,3,2
+United States, 24 ,Male,White,Blue,Blue,Green,Black,Red,Black,Black,Yellow,Yellow,Yellow,Red,Red,White,5,5,3,1,2,4,2,1,1,4,3
+United States, 23 ,Female,White,Grey,Green,Purple,Red,Orange,Green,White,Grey,Red,Yellow,Blue,Blue,Grey,1,5,4,1,4,1,1,1,1,4,4
+United States, 62 ,Male,Purple,Blue,Blue,Grey,Red,Purple,Black,Blue,Black,Red,Grey,Blue,Blue,Yellow,4,5,4,4,4,4,1,3,1,4,4
+Mexico, 35 ,Female,Brown,White,White,White,Red,Purple,Blue,Grey,Grey,Black,Red,Purple,Purple,Orange,1,2,4,1,1,1,1,1,1,1,1
+United States, 47 ,Male,Orange,Blue,Yellow,Green,Red,Red,White,Black,Grey,Black,Grey,Red,Blue,Orange,2,4,4,1,2,1,3,1,1,1,1
+Mexico, 43 ,Male,Orange,Brown,Green,Brown,White,White,Purple,Grey,Blue,Black,Yellow,Red,Blue,Orange,4,5,5,4,5,5,1,2,4,4,4
+United States, 73 ,Female,Yellow,Black,Blue,Blue,Red,Purple,Red,White,Grey,Grey,Blue,Blue,White,Orange,5,5,1,1,1,1,1,1,1,1,1
+United States, 28 ,Female,Yellow,Blue,Purple,Black,Red,Orange,Blue,Blue,Grey,Black,Green,Red,Orange,White,1,4,4,1,5,5,1,3,1,1,1
+United States, 44 ,Male,Grey,Brown,White,Yellow,Red,Purple,Black,Black,Grey,Grey,Grey,Green,Green,Grey,4,1,5,1,2,3,1,3,3,5,5
+Philippines, 24 ,Female,Yellow,Black,Brown,Blue,Red,Red,Red,Black,Grey,Grey,Green,Red,Black,Yellow,3,5,4,1,5,5,1,3,1,1,1
+United States, 34 ,Female,Purple,Brown,White,Blue,Orange,Orange,Brown,Grey,Grey,White,Grey,Green,Green,Yellow,3,3,4,2,3,2,2,2,2,2,2
+Hungary, 62 ,Female,Orange,Blue,White,Blue,Red,Yellow,Grey,Brown,Black,Red,Black,Green,Purple,Grey,3,5,3,1,3,3,1,1,1,1,1
+United States, 31 ,Female,White,Brown,Yellow,Green,Red,Orange,Black,Grey,Grey,Black,Blue,Yellow,Purple,White,3,5,5,1,2,2,1,4,2,3,3
+Netherlands, 67 ,Female,Orange,Purple,Purple,Blue,Red,Red,Blue,Blue,Grey,Black,Yellow,Purple,Purple,Yellow,5,4,2,4,4,2,1,1,3,2,1
+United States, 35 ,Female,Brown,Blue,Blue,Grey,Red,Yellow,Green,Grey,Black,Black,Brown,Purple,Purple,Orange,2,4,5,1,3,3,1,1,1,1,2
+United States, 20 ,Female,Orange,Blue,Green,Black,Red,Orange,Black,Black,Grey,Red,Red,Purple,Red,Brown,4,5,5,2,4,4,5,5,5,4,3
+United States, 21 ,Male,Yellow,Blue,Blue,Blue,Red,Orange,Blue,Orange,Black,Black,Black,Red,Blue,Brown,4,4,4,2,4,3,2,5,3,5,2
+Canada, 22 ,Female,Brown,Blue,Yellow,Blue,Red,Orange,Yellow,White,Blue,Black,Black,White,Blue,Brown,4,3,1,5,4,3,5,5,2,4,1
+United States, 21 ,Female,White,Blue,Yellow,Brown,Red,Green,Black,Black,Grey,Orange,White,Purple,Brown,Purple,5,5,4,3,3,2,3,2,1,3,2
+United States, 17 ,Male,Yellow,Blue,Red,Grey,Orange,Orange,Black,Black,White,Purple,Brown,Purple,Orange,Brown,2,5,3,1,4,5,2,5,2,3,3
+United States, 17 ,Male,Grey,Orange,Yellow,Black,White,Green,Black,Green,Grey,Black,Blue,Purple,Blue,Purple,3,4,2,1,5,5,5,3,4,3,4
+United States, 21 ,Male,Orange,Blue,White,Black,Yellow,Red,Red,Black,Black,Black,Purple,Red,Blue,Purple,3,5,2,1,3,3,3,5,3,1,1
+United States, 44 ,Female,Orange,Black,Black,Red,Red,Yellow,Brown,Blue,Grey,White,Grey,Purple,Green,Purple,4,5,1,3,4,5,5,2,1,5,2
+United States, 20 ,Female,Orange,Green,White,Blue,Red,Purple,Black,White,Blue,Red,Yellow,Purple,Blue,Orange,5,5,5,1,4,4,3,5,5,3,3
+Canada, 24 ,Female,Orange,White,Yellow,Blue,Black,Red,White,Grey,Black,Black,Black,Blue,Black,Yellow,3,5,5,3,5,3,1,3,2,1,1
+United States, 20 ,Male,Red,Green,White,Yellow,Red,Orange,Blue,Grey,Black,Red,Black,Blue,Blue,Yellow,2,4,5,2,5,5,2,5,3,3,3
+United States, 20 ,Male,Orange,Black,Blue,Red,Red,Yellow,Black,Blue,Brown,Red,Brown,Purple,Blue,Brown,4,5,4,3,5,5,5,5,2,1,1
+United States, 17 ,Female,Purple,White,Green,Blue,Red,Red,Black,Yellow,Grey,Black,Brown,Blue,Blue,Brown,1,5,4,1,3,1,4,2,1,1,4
+United States, 24 ,Female,Red,Black,Blue,Black,Red,Purple,White,White,Black,Brown,Brown,Purple,Blue,Brown,5,5,5,2,5,4,3,4,5,1,2
+United States, 20 ,Male,Yellow,Purple,Green,Blue,White,Orange,Blue,Black,Black,Red,Brown,Purple,Black,Brown,2,4,4,3,4,4,2,3,4,4,4
+United States, 24 ,Male,Brown,White,White,Black,Red,Yellow,Blue,Black,Brown,Yellow,Grey,Green,Green,Orange,3,4,4,2,5,4,4,4,3,4,2
+United States, 21 ,Male,Yellow,White,Blue,Grey,Orange,Red,Blue,Yellow,Black,Red,Grey,Purple,Blue,Orange,3,5,4,2,5,5,4,5,2,1,1
+United States, 16 ,Male,Grey,Blue,Orange,Black,Red,Green,Yellow,Green,Blue,Red,Grey,Red,Blue,Brown,2,5,3,1,2,2,3,5,4,2,3
+United States, 18 ,Male,Green,Purple,Blue,Grey,Red,Yellow,Black,Black,White,Brown,Brown,Red,Red,Brown,2,4,1,4,4,1,5,2,1,2,2
+United States, 27 ,Male,Brown,Blue,Green,White,Red,Yellow,Grey,Grey,Black,White,Black,Red,Green,Purple,4,3,3,2,5,5,5,5,3,2,1
+United States, 24 ,Female,Brown,Black,Black,White,Black,Orange,Grey,Grey,Blue,Red,Red,White,Green,Brown,5,4,2,2,2,3,4,4,4,5,2
+United States, 21 ,Male,Brown,Black,White,White,Blue,Orange,Purple,Green,Black,Black,Brown,White,Blue,Brown,3,5,1,2,4,2,3,5,3,1,3
+Germany, 25 ,Female,White,Orange,Green,Green,Red,Yellow,Purple,Orange,Black,Black,Grey,Green,Blue,Grey,4,4,3,1,4,4,3,4,3,2,2
+Canada, 19 ,Female,Yellow,Grey,White,Brown,Red,Red,White,Blue,Black,Red,Grey,Red,Black,Orange,4,5,4,1,4,4,3,5,4,2,5

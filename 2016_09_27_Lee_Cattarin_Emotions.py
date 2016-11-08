@@ -1,3 +1,9 @@
+'''
+Author: Lee Cattarin
+Date: Sep 27, 2016
+Purpose: To analyze by color the results of Google Image Searches for emotion terms and record this data in an SQLite table.
+'''
+
 import sqlite3
 import os.path
 from PIL import Image

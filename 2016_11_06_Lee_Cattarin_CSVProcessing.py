@@ -1,8 +1,7 @@
 '''
 Author: Lee Cattarin
 Date: Nov. 6, 2016
-Purpose: This file puts the data in the CSV files into something that is easy to work
-with in Processing, which is java-based.
+Purpose: This file puts the data in the CSV files into something that is easy to work with in Processing, which is java-based.
 '''
 
 import colorsys
