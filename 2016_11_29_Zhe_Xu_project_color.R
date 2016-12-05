@@ -1,0 +1,122 @@
+---
+  title: "project_color"
+author: "Zhe Xu"
+date: "11/15/2016"
+output: word_document
+---
+  
+  #  CORRELATION TEST 
+  
+  emotionquality<-read.csv('C:/Users/david00710/Dropbox/datascience/EmotionColor-master/emotionquality.csv')
+
+cor(emotionquality)
+
+cormatrixnew <- cor(emotionquality)
+write.csv(cormatrixnew,"cormatrixnew2.csv")
+
+cor.test(emotionquality$Loneliness.Desperation,emotionquality$sadness_google,method="pearson")
+
+pairs(~HighQuality+Courage.Bravery+Fear.Terror+Reliability.Dependability+Fun+Speed+Trust+HighTechnology+Disease.HealthProblems+Loneliness.Desperation+Cheap+joy_google+anticipation_google+trust_google+fear_google+disgust_google+anger_google+sadness_google,data=emotionquality,main="Simple Scatterplot Matrix")
+
+emotionquality2<-read.csv('C:/Users/david00710/Dropbox/datascience/EmotionColor-master/emotionqualityunbiased.csv')
+
+cormatrixnew2 <- cor(emotionquality2)
+write.csv(cormatrixnew2,"cormatrixnew2.csv")
+
+pairs(~HighQuality+Courage.Bravery+Fear.Terror+Reliability.Dependability+Fun+Speed+Trust+HighTechnology+Disease.HealthProblems+Loneliness.Desperation+Cheap+joy_google+anticipation_google+trust_google+fear_google+disgust_google+anger_google+sadness_google,data=emotionquality2,main="Simple Scatterplot Matrix")
+
+cor.test(emotionquality2$Cheap,emotionquality2$fear_google,method="pearson")
+pairs(~Cheap+fear_google,data=emotionquality2,main="Simple Scatterplot Matrix")
+
+pairs(~sadness_google+HighTechnology,data=emotionquality2,main="Simple Scatterplot Matrix")
+
+cor.test(emotionquality2$Trust,emotionquality2$HighTechnology,method="pearson")                            
+
+cor.test(emotionquality2$Trust,emotionquality2$Reliability.Dependability,method="pearson")
+
+pairs(~Trust+Reliability.Dependability,data=emotionquality2,main="Simple Scatterplot Matrix")
+
+cor.test(emotionquality2$Fear.Terror,emotionquality2$Speed,method="pearson")
+
+cor.test(emotionquality2$Fear.Terror,emotionquality2$Speed,method="pearson")                        
+
+pairs(~Fear.Terror+Speed,data=emotionquality2,main="Simple Scatterplot Matrix")
+
+pairs(~Trust+HighTechnology,data=emotionquality2,main="Simple Scatterplot Matrix")
+
+pairs(~Trust+trust_google,data=emotionquality2,main="Simple Scatterplot Matrix")
+
+cor.test(emotionquality2$sadness_google,emotionquality2$HighTechnology,method="pearson")      
+
+cor.test(emotionquality$Reliability.Dependability,emotionquality$Security,method="pearson") 
+
+cor.test(emotionquality2$trust_google,emotionquality$anticipation_google,method="pearson")  
+
+cor.test(emotionquality$trust_google,emotionquality$disgust_google,method="pearson")  
+
+cor.test(emotionquality$disgust_google,emotionquality$anticipation_google,method="pearson")    
+
+library(corrplot)
+
+corrplot(cor(emotionquality2), order = "hclust", tl.col='black', tl.cex=.75)
+
+emotionfavourite<-read.csv('C:/Users/david00710/Dropbox/datascience/EmotionColor-master/emotionfavourite.csv')
+
+cormatrixfav <- cor(emotionfavourite)
+write.csv(cormatrixfav,"cormatrixfav.csv")
+
+cor.test(emotionfavourite$positive_google,emotionfavourite$FavColor,method="pearson")   
+
+cor.test(emotionfavourite$positive_google,emotionfavourite$LeastFavColor,method="pearson")  
+
+cor.test(emotionfavourite$negative_google,emotionfavourite$FavColor,method="pearson")   
+
+cor.test(emotionfavourite$negative_google,emotionfavourite$LeastFavColor,method="pearson")
+
+emotionfavourite2<-read.csv('C:/Users/david00710/Dropbox/datascience/EmotionColor-master/emotionfavourite2.csv')
+
+cormatrixfav2 <- cor(emotionfavourite2)
+write.csv(cormatrixfav2,"cormatrixfav2.csv")
+
+cor.test(emotionfavourite2$positive_google,emotionfavourite2$FavColor,method="pearson")   
+
+cor.test(emotionfavourite2$positive_google,emotionfavourite2$LeastFavColor,method="pearson")  
+
+cor.test(emotionfavourite2$negative_google,emotionfavourite2$FavColor,method="pearson")   
+
+cor.test(emotionfavourite2$negative_google,emotionfavourite2$LeastFavColor,method="pearson")
+
+# FACTOR ANALYSIS
+
+emotionquality2.eigen <- eigen(cor(emotionquality2))    
+
+emotionquality2.eigen$value    
+
+factors <- 4
+emotionquality2.eigen$vectors[, 1:factors]      
+
+emotion2<-read.csv('C:/Users/david00710/Dropbox/datascience/EmotionColor-master/emotion2.csv')
+
+res1b = factanal(emotion2, factors = 2, rotation = "none", na.action = na.omit)
+res1b$loadings
+load = res1b$loadings[,1:2]
+plot(load, type="n") # set up plot 
+text(load,labels=names(emotion2),cex=.7) # add variable names
+
+# REGRESSION ANALYSIS 
+
+R1 <- lm(emotionquality2$disgust_google ~ emotionquality2$anticipation_google+ emotionquality2$surprise_google)
+summary(R1)
+
+R1 <- lm(emotionquality2$anger_google ~ emotionquality2$anticipation_google + emotionquality2$surprise_google +emotionquality2$sadness_google)
+summary(R1)
+
+
+
+
+
+
+
+
+
+
